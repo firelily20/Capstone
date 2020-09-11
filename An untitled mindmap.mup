@@ -1,0 +1,170 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "ChampOS",
+      "id": 1,
+      "attr": {
+        "position": [
+          -79,
+          -24,
+          1
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "BaselineVM",
+          "id": 2,
+          "ideas": {
+            "0.5": {
+              "title": "Distro",
+              "id": 7,
+              "attr": {
+                "position": [
+                  81,
+                  -69.9874906539917,
+                  1
+                ],
+                "note": {
+                  "index": 3,
+                  "text": "Research and decide on a distro to base the OS on"
+                }
+              }
+            },
+            "2.5": {
+              "title": "Networking",
+              "id": 24,
+              "ideas": {},
+              "attr": {
+                "note": {
+                  "index": 4,
+                  "text": "Make sure where it is hosted can connect to cyber.local"
+                }
+              }
+            },
+            "3.5": {
+              "title": "Customers",
+              "id": 25,
+              "ideas": {
+                "1": {
+                  "title": "Devin",
+                  "id": 26,
+                  "ideas": {
+                    "1": {
+                      "title": "Workstation",
+                      "id": 27,
+                      "attr": {
+                        "note": {
+                          "index": 7,
+                          "text": "Make the BaselineVM into a workstation so it can be use on cyber.local desktops"
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Duane",
+                  "id": 28,
+                  "ideas": {
+                    "1": {
+                      "title": "VPN",
+                      "id": 31,
+                      "attr": {
+                        "note": {
+                          "index": 9,
+                          "text": "Uses Wireguard to set up a VPN connection immediately"
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Home Directory",
+                      "id": 33,
+                      "attr": {
+                        "note": {
+                          "index": 10,
+                          "text": "Copies the config file from the cyber.local server to get and create home directory"
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "RDP",
+                      "id": 34,
+                      "attr": {
+                        "note": {
+                          "index": 11,
+                          "text": "Make sure the image can RDP (maybe using Remmina) to the cyber.local desktops"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "backgroundColor": "#FF0000",
+              "text": {
+                "color": "#FFFFFF"
+              }
+            },
+            "note": {
+              "index": 2,
+              "text": "Base VM that can be used workstations and remote connection"
+            }
+          }
+        },
+        "-1": {
+          "title": "Security Tools",
+          "id": 10,
+          "attr": {
+            "style": {
+              "backgroundColor": "#FF9900"
+            },
+            "note": {
+              "index": 13,
+              "text": "Tools that are wanted on the OS"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Get list",
+              "id": 12,
+              "attr": {
+                "note": {
+                  "index": 8,
+                  "text": "Reach out to classes and Professors to make a list of tools wanted"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Implement",
+                  "id": 17,
+                  "attr": {
+                    "note": {
+                      "index": 15,
+                      "text": "Implement the tools we can, which are those without a license"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Ansible Playbook?",
+                  "id": 18,
+                  "attr": {
+                    "note": {
+                      "index": 16,
+                      "text": "Possibly create a Ansible playbook of the tools requested that need a license"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "title": "ChampOS",
+  "links": []
+}
