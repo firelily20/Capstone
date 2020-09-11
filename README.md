@@ -8,4 +8,4 @@ ChampOS would have commonly used security tools and other tools that would be ne
 It will be useful for me to learn how to build a linux distro as well as help the CNCS program. 
 
 # References!
-* [References] ().
+* [References](https://github.com/firelily20/Capstone/blob/master/References.md)
