@@ -7,6 +7,6 @@ A Linux distrabution for cyber.local. It is a service based project with the cus
 ChampOS would have commonly used security tools and other tools that would be needed for classes. We will be having a meeting this week to get specifics of the project and what is expected. 
 It will be useful for me to learn how to build a linux distro as well as help the CNCS program. 
 
-# [References Page](https://github.com/firelily20/Capstone/blob/master/References.md)
+### [References Page](https://github.com/firelily20/Capstone/blob/master/References.md)
 
 ### [Mind Map](https://github.com/firelily20/Capstone/blob/master/MindMap.md)
